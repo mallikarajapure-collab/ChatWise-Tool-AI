@@ -1,0 +1,127 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "General assistant",
+    "summary": "A general-purpose AI assistant for writing, brainstorming, explanations, coding help, and multi-step tasks. Exact capabilities depend on plan and enabled tools.",
+    "strengths": [
+      "Flexible general assistance",
+      "Writing and reasoning workflows",
+      "Coding explanations"
+    ],
+    "limitations": [
+      "Can produce incorrect information",
+      "Some features depend on plan or region",
+      "Verify current feature and pricing details"
+    ],
+    "pricing": "Free and paid plans; verify current pricing on official site",
+    "source_url": "https://chatgpt.com/",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "Google Gemini",
+    "category": "General assistant",
+    "summary": "Google's AI assistant for drafting, summarizing, brainstorming, and tasks within Google's ecosystem; available features can vary by account and region.",
+    "strengths": [
+      "Google ecosystem workflows",
+      "Writing and summarization",
+      "Multimodal features may be available"
+    ],
+    "limitations": [
+      "Can make factual errors",
+      "Features and limits change",
+      "Verify current plan details"
+    ],
+    "pricing": "Free and paid options may be available; verify official site",
+    "source_url": "https://gemini.google.com/",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "Claude",
+    "category": "Writing and analysis",
+    "summary": "An AI assistant from Anthropic often used for writing, analysis, coding help, and working with longer text; current limits depend on plan.",
+    "strengths": [
+      "Long-form writing workflows",
+      "Document analysis",
+      "Coding assistance"
+    ],
+    "limitations": [
+      "Can hallucinate",
+      "Usage limits vary",
+      "Verify current availability and pricing"
+    ],
+    "pricing": "Free and paid options may be available; verify official site",
+    "source_url": "https://claude.ai/",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "Perplexity",
+    "category": "Research assistant",
+    "summary": "An answer engine focused on web research with linked sources, useful when a task needs current information and source inspection.",
+    "strengths": [
+      "Source-linked research",
+      "Current web information workflows",
+      "Follow-up research questions"
+    ],
+    "limitations": [
+      "Sources still need checking",
+      "Citations can be incomplete or misinterpreted",
+      "Plan limits may change"
+    ],
+    "pricing": "Free and paid options may be available; verify official site",
+    "source_url": "https://www.perplexity.ai/",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "Coding assistant",
+    "summary": "A coding assistant integrated with supported development environments for code suggestions, explanations, and developer workflows.",
+    "strengths": [
+      "IDE-integrated coding assistance",
+      "Code completion",
+      "Developer workflow support"
+    ],
+    "limitations": [
+      "Suggestions need testing and review",
+      "Availability varies by plan and IDE",
+      "Not a substitute for secure code review"
+    ],
+    "pricing": "Plans may vary; verify official site",
+    "source_url": "https://github.com/features/copilot",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "Document research",
+    "summary": "A research and study assistant designed to work with user-provided source materials and produce source-grounded summaries and answers.",
+    "strengths": [
+      "Source-focused study workflows",
+      "Summaries of provided material",
+      "Useful for document Q&A"
+    ],
+    "limitations": [
+      "Output depends on uploaded sources",
+      "Check citations against original documents",
+      "Features can change"
+    ],
+    "pricing": "Verify current availability and pricing on official site",
+    "source_url": "https://notebooklm.google.com/",
+    "last_verified": "Needs verification"
+  },
+  {
+    "name": "Python Tutor",
+    "category": "Coding assistant",
+    "summary": "Helps beginners understand Python concepts and practice simple coding examples.",
+    "strengths": [
+      "Beginner explanations",
+      "Python examples",
+      "Learning support"
+    ],
+    "limitations": [
+      "May make mistakes",
+      "Does not replace testing code"
+    ],
+    "pricing": "Test entry - pricing not verified",
+    "source_url": "https://www.python.org/",
+    "last_verified": "Needs verification"
+  }
+]
